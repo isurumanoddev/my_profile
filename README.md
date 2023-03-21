@@ -10,7 +10,6 @@
 &nbsp;
 
 
-
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
@@ -112,23 +111,9 @@ That's why I like to make things that make a difference.
 
 ---
 
-## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
-
-
 <!--END_SECTION:waka-->
 
 
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-  </p>
-
-</details>
 
 
 <details>
@@ -152,19 +137,4 @@ That's why I like to make things that make a difference.
 
 ---
 
-## 📕Latest Blog Posts
-
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswin2001barath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswin2001barath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswin2001barath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswin2001barath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
-<!-- BLOG-POST-LIST:END -->
 
