@@ -23,9 +23,7 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [**](https://github.com/isurumanoddev) platform
 
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
 - 📬 How to reach me: [isurumanoddev@gmail.com](mailto:isurumanoddev@gmail.com)
