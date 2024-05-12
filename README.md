@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming language
 
 <h3 align="left">Languages and Tools:</h3>
 
