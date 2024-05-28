@@ -15,7 +15,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a ***Software Engineering Student*
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help.
 - 🌱 I'm currently learning:
     - Tools and technologies
       from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
