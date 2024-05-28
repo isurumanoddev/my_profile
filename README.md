@@ -14,7 +14,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a ***Software Engineering Student*
+- 👨‍🎓 I'm a ***Software Engineering Student**
 - 💬 Ask me about anything, I am happy to help.
 - 🌱 I'm currently learning:
     - Tools and technologies
