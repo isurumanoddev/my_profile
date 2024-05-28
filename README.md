@@ -17,7 +17,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a ***Software Engineering Student***
 - 💬 Ask me about anything, I am happy to help.
 - 🌱 I'm currently learning:
-    - Tools and technologies
+    - Tools and technologie
       from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       ecosystem
 - 📬 How to reach me: [isurumanoddev@gmail.com](mailto:isurumanoddev@gmail.com)
